@@ -12,4 +12,4 @@ for i in range (len(cogs)):
 
 
 
-client.run("ODg5Mzk1NjU4NjAyMjAxMDg4.YUgoQQ.VZjVazPBX5mhv_hzWmWjX66rYd8")
+client.run("insert_token_here)
