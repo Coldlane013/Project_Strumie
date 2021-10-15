@@ -12,4 +12,4 @@ for i in range (len(cogs)):
 
 
 
-client.run("insert_token_here)
+client.run("insert_token_here")
